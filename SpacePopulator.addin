@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>ASHRAE Space Overrides</Name>
+    <Assembly>C:\Program Files\Autodesk\SpacePopulator.dll</Assembly>
+    <AddInId>6A5A2A19-8C2A-4B91-AF3C-F4868E38EF5F</AddInId>
+    <FullClassName>ASHRAE.SpaceOverrides.WriteSpaceParameters</FullClassName>
+    <VendorId>ASOV</VendorId>
+    <VendorDescription>ASHRAE Automation Tools for Revit</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>HVACUI</Name>
+    <Assembly>C:\Program Files\Autodesk\SpacePopulator.dll</Assembly>
+    <AddInId>3D02F4AB-B502-42E1-9E2D-9DDE49E02DF1</AddInId>
+    <FullClassName>ASHRAE.SpaceOverrides.App</FullClassName>
+    <VendorId>ASOV</VendorId>
+    <VendorDescription>ASHRAE Automation Tools for Revit</VendorDescription>
+  </AddIn>
+</RevitAddIns>
