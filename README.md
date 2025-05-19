@@ -103,7 +103,7 @@ If this add-in saved you time or inspired a new workflow, feel free to connect:
 
 **Derek Eubanks, PE, HFDP, CHD, HBDP**
 - 🧠 MSCS Candidate, Georgia Tech (Machine Learning)
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/derek-w-46120b74/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/derek-w-46120b74/))
 - 💻 [GitHub](https://github.com/dwayne902642323)
 
 ---
