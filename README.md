@@ -1,5 +1,5 @@
-# 🏗️ SpacePopulator – Revit Add-In for Standards-Compliant Space Parameter Automation
-## 🔧 What Is It?
+🏗️ SpacePopulator (beta) – Revit Add-In for Standards-Compliant Space Parameter Automation
+🔧 What Is It?
 
 **SpacePopulator** is a C# Revit API add-in that automatically populates space-level parameters in a Revit model based on official engineering standards. Designed for MEP engineers and BIM professionals, this tool injects validated design-intent data — airflow rates, internal loads, temperature, humidity, and more — into every selected `Space` object using structured logic from:
 
