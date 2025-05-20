@@ -1,0 +1,14 @@
+Degree of Activity,Location,"Total Heat (Male, Btu/h)","Adjusted Total Heat (M/F, Btu/h)",Sensible Heat (Btu/h),Latent Heat (Btu/h),% Sensible Heat Radiant (Low V),% Sensible Heat Radiant (High V)
+Seated at theater,Theater,390,350,245,105,60,27
+"Seated, very light work","Offices, hotels, apartments",450,400,245,155,,
+Moderately active office work,"Offices, hotels, apartments",475,450,250,200,,
+"Standing, light work; walking",Department store; retail store,550,450,250,200,58,38
+"Walking, standing","Drug store, bank",550,500,250,250,,
+Sedentary work,Restaurant,490,550,275,275,,
+Light bench work,Factory,800,750,275,475,,
+Moderate dancing,Dance hall,900,850,305,545,49,35
+Walking 3 mph; light machine work,Factory,1000,1000,375,625,,
+Bowling,Bowling alley,1500,1450,580,870,,
+Heavy work,Factory,1500,1450,580,870,54,19
+Heavy machine work; lifting,Factory,1600,1600,635,965,,
+Athletics,Gymnasium,2000,1800,710,1090,,

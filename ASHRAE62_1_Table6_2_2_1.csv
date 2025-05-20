@@ -1,0 +1,79 @@
+Occupancy Category,People Outdoor Air Rate Rp (cfm/person),Rp (L/s·person),Area Outdoor Air Rate Ra (cfm/ft²),Ra (L/s·m²),Notes,Default Occupant Density (#/1000 ft²),Combined Outdoor Air Rate (cfm/person),Combined Outdoor Air Rate (L/s·person),Air Class
+Cell,5,2.5,0.12,0.6,,25,10,4.9,2
+Dayroom,5,2.5,0.06,0.3,,30,7,3.5,1
+Guard stations,5,2.5,0.06,0.3,,15,9,4.5,1
+Booking/waiting,7.5,3.8,0.06,0.3,,50,9,4.4,2
+Daycare (through age 4),10,5,0.18,0.9,,25,17,8.6,2
+Daycare sickroom,10,5,0.18,0.9,,25,17,8.6,3
+Classrooms (ages 5–8),10,5,0.12,0.6,,25,15,7.4,1
+Classrooms (age 9 plus),10,5,0.12,0.6,,35,13,6.7,1
+Lecture classroom,7.5,3.8,0.06,0.3,H,65,8,4.3,1
+Lecture hall (fixed seats),7.5,3.8,0.06,0.3,H,150,8,4,1
+Art classroom,10,5,0.18,0.9,,20,19,9.5,2
+Science laboratories,10,5,0.18,0.9,,25,17,8.6,2
+University/college laboratories,10,5,0.18,0.9,,25,17,8.6,2
+Wood/metal shop,10,5,0.18,0.9,,20,19,9.5,2
+Computer lab,10,5,0.12,0.6,,25,15,7.4,1
+Media center,10,5,0.12,0.6,A,25,15,7.4,1
+Music/theater/dance,10,5,0.06,0.3,H,35,12,5.9,1
+Multiuse assembly,7.5,3.8,0.06,0.3,H,100,8,4.1,1
+Restaurant dining rooms,7.5,3.8,0.18,0.9,,70,10,5.1,2
+Cafeteria/fast-food dining,7.5,3.8,0.18,0.9,,100,9,4.7,2
+"Bars, cocktail lounges",7.5,3.8,0.18,0.9,,100,9,4.7,2
+Kitchen (cooking),7.5,3.8,0.12,0.6,,20,14,7,2
+Break rooms,5,2.5,0.06,0.3,H,25,7,3.5,1
+Coffee stations,5,2.5,0.06,0.3,H,20,8,4,1
+Conference/meeting,5,2.5,0.06,0.3,H,50,6,3.1,1
+Corridors,,,0.06,0.3,H,,,,1
+Occupiable storage rooms for liquids or gels,5,2.5,0.12,0.6,B,2,65,32.5,2
+Bedroom/living room,5,2.5,0.06,0.3,H,10,11,5.5,1
+Barracks sleeping areas,5,2.5,0.06,0.3,H,20,8,4,1
+"Laundry rooms, central",5,2.5,0.12,0.6,,10,17,8.5,2
+Laundry rooms within dwelling units,5,2.5,0.12,0.6,,10,17,8.5,1
+Lobbies/prefunction,7.5,3.8,0.06,0.3,H,30,10,4.8,1
+Multipurpose assembly,5,2.5,0.06,0.3,H,120,6,2.8,1
+Breakrooms (office),5,2.5,0.12,0.6,,50,7,3.5,1
+Main entry lobbies,5,2.5,0.06,0.3,H,10,11,5.5,1
+Occupiable storage rooms for dry materials,5,2.5,0.06,0.3,,2,35,17.5,1
+Office space,5,2.5,0.06,0.3,H,5,17,8.5,1
+Reception areas,5,2.5,0.06,0.3,H,30,7,3.5,1
+Telephone/data entry,5,2.5,0.06,0.3,H,60,6,3,1
+Bank vaults/safe deposit,5,2.5,0.06,0.3,H,5,17,8.5,2
+Banks or bank lobbies,7.5,3.8,0.06,0.3,H,15,12,6,1
+Computer (not printing),5,2.5,0.06,0.3,H,4,20,10,1
+Freezer and refrigerated spaces (<50°F),10,5,0,0,E,0,0,0,2
+General manufacturing (excl. heavy industrial),10,5,0.18,0.9,,7,36,18,3
+Pharmacy (prep. area),10,5,0.18,0.9,,10,23,11.5,2
+Photo studios,5,2.5,0.12,0.6,,10,17,8.5,1
+Shipping/receiving,10,5,0.12,0.6,B,2,70,35,2
+"Sorting, packing, light assembly",7.5,3.8,0.12,0.6,,7,25,12.5,2
+Telephone closets,,,0,0,,,,,1
+Transportation waiting,7.5,3.8,0.06,0.3,H,100,8,4.1,1
+Warehouses,10,5,0.06,0.3,B,,,,2
+Auditorium seating area,5,2.5,0.06,0.3,H,150,5,2.7,1
+Places of religious worship,5,2.5,0.06,0.3,H,120,6,2.8,1
+Courtrooms,5,2.5,0.06,0.3,H,70,6,2.9,1
+Legislative chambers,5,2.5,0.06,0.3,H,50,6,3.1,1
+Libraries,5,2.5,0.12,0.6,,10,17,8.5,1
+Lobbies,5,2.5,0.06,0.3,H,150,5,2.7,1
+Museums (children’s),7.5,3.8,0.12,0.6,,40,11,5.3,1
+Museums/galleries,7.5,3.8,0.06,0.3,H,40,9,4.6,1
+Dwelling unit,5,2.5,0.06,0.3,"F,G,H,F",,,,1
+Common corridors,,,0.06,0.3,H,,,,1
+Sales (except as below),7.5,3.8,0.12,0.6,,15,16,7.8,2
+Mall common areas,7.5,3.8,0.06,0.3,H,40,9,4.6,1
+Barbershop,7.5,3.8,0.06,0.3,H,25,10,5,2
+Beauty and nail salons,20,10,0.12,0.6,,25,25,12.4,2
+Pet shops (animal areas),7.5,3.8,0.18,0.9,,10,26,12.8,2
+Supermarket,7.5,3.8,0.06,0.3,H,8,15,7.6,1
+Coin-operated laundries,7.5,3.8,0.12,0.6,,20,14,7,2
+"Gym, sports arena (play area)",20,10,0.18,0.9,E,7,45,23,2
+Spectator areas,7.5,3.8,0.06,0.3,H,150,8,4,1
+Swimming (pool & deck),,,0.48,2.4,C,,,,2
+Disco/dance floors,20,10,0.06,0.3,H,100,21,10.3,2
+Health club/aerobics room,20,10,0.06,0.3,,40,22,10.8,2
+Health club/weight rooms,10,5,0.06,0.3,,10,26,13,2
+Bowling alley (seating),5,2.5,0.12,0.6,,40,13,6.5,1
+Gambling casinos,7.5,3.8,0.18,0.9,,120,9,4.6,1
+Game arcades,7.5,3.8,0.18,0.9,,20,17,8.3,1
+"Stages, studios",10,5,0.06,0.3,"D,H",70,11,5.4,1

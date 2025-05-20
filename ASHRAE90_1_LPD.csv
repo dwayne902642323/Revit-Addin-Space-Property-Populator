@@ -1,0 +1,122 @@
+Common Space Type,LPD (W/ft^2)
+Atrium <20 ft in height,0.32
+"Atrium, >20 ft and �<40 ft in height",0.41
+Atrium >40 ft in height,0.51
+Audience Seating Area - Auditorium,0.57
+Audience Seating Area - Gymnasium,0.23
+Audience Seating Area - Motion picture theater,0.27
+Audience Seating Area - Performing arts theater,1.1
+Audience Seating Area - Sports arena,0.27
+Audience Seating Area - All other audience seating areas,0.23
+Banking Activity Area,0.56
+Classroom - Shop classroom,1.17
+Classroom - All other classrooms/lecture halls/training rooms,0.72
+Computer Room,0.75
+Conference/Meeting/Multipurpose Rooms,0.88
+Control/Editing Room or Booth,0.73
+Copy/Print Room,0.56
+Corridor,0.44
+Courtroom,1.08
+Dining Areas - Bar/lounge or leisure dining,0.76
+Dining Areas - Cafeteria or fast-food dining,0.36
+Dining Areas - Family dining,0.52
+Dining Areas - All other dining areas,0.42
+Electrical/Mechanical Room,0.71
+Emergency Vehicle Garage,0.51
+Equipment Room,0.73
+Food Preparation Area,1.19
+Guest Room,0.41
+Laboratory - In or as a classroom,1.05
+Laboratory - All other laboratories,1.21
+Laundry/Washing Area,0.51
+"Loading Dock, Interior",0.87
+Lobby - Elevator,0.64
+Lobby - Hotel,0.48
+Lobby - Motion picture theater,0.2
+Lobby - Performing arts theater,1.21
+Lobby - All other lobbies,0.8
+Locker Room,0.43
+Lounge/Breakroom - Mother’s/wellness room,0.68
+Lounge/Breakroom - All other lounges/breakrooms,0.55
+Office <150 ft^2,0.73
+Office >150 and <300 ft^2,0.66
+Offices >300 ft^2,0.56
+Parking Garage - Daylight transition zone,1.06
+Parking Garage - All other parking and drive areas,0.11
+Pharmacy Area,1.59
+Restroom,0.74
+Sales Area,0.85
+"Seating Area, General",0.21
+Security Screening - Transportation screening,0.93
+Security Screening - Transportation screening queue,0.56
+Security Screening - General,0.64
+Stairwell,0.47
+Storage Room <50 ft²,0.49
+Storage Room ≥50 ft²,0.35
+Vehicular Maintenance Area,0.59
+Workshop (including workshop classrooms),1.17
+Casino - Betting/sportsbook/keno/bingo area,0.82
+Casino - High-limit game area,1.68
+Casino - Slot machine/digital gaming area,0.54
+Casino - Table games area,1.09
+Convention Center - Exhibit Space,0.5
+Correctional Facilities - Audience seating area,0.56
+Correctional Facilities - Classroom/lecture hall/training room,0.74
+Correctional Facilities - Confinement cells,0.6
+Correctional Facilities - Dining area,0.35
+Dormitory - Living Quarters,0.48
+Visually Impaired Facility - Chapel (used primarily by residents),0.58
+Visually Impaired Facility - Corridor (used primarily by residents),0.71
+Visually Impaired Facility - Dining (used primarily by residents),1.22
+Visually Impaired Facility - Lobby,1.44
+Visually Impaired Facility - Recreation room/common living room,1.2
+Visually Impaired Facility - Restroom,0.96
+Fire Station - Sleeping Quarters,0.22
+Gymnasium/Fitness Center - Exercise area,0.82
+Gymnasium/Fitness Center - Playing area,0.82
+Health Care Facility - Control room (MRI/CT/radiology/PET),0.78
+Health Care Facility - Exam/treatment room,1.33
+Health Care Facility - Hospital corridor,0.61
+Health Care Facility - Imaging room,0.94
+Health Care Facility - Lounge,0.77
+Health Care Facility - Medical supply room,0.56
+Health Care Facility - Nursery,0.87
+Health Care Facility - Nurse’s station,1.07
+Health Care Facility - Operating room,2.31
+Health Care Facility - Patient room,0.78
+Health Care Facility - Physical therapy room,0.82
+Health Care Facility - Recovery room,1.18
+Health Care Facility - Telemedicine,1.44
+Library - Reading area,0.86
+Library - Stacks,1.18
+Manufacturing Facility - Detailed manufacturing area,0.75
+Manufacturing Facility - Extra-high bay area (>50 ft floor-to-ceiling height),1.36
+Manufacturing Facility - High bay area (25 to 50 ft floor-to-ceiling height),1.24
+Manufacturing Facility - Low bay area (<25 ft floor-to-ceiling height),0.85
+Museum - General exhibition area,0.31
+Museum - Restoration area,1.24
+Performing Arts Theater - Dressing Room,0.39
+Post Office - Sorting Area,0.71
+Religious Facility - Audience seating area,0.72
+Religious Facility - Fellowship hall,0.5
+Religious Facility - Worship/pulpit/choir area,0.75
+Retail Facilities - Dressing/fitting room,0.45
+Retail Facilities - Hair care,0.65
+Retail Facilities - Mall concourse,0.57
+Retail Facilities - Massage,0.81
+Retail Facilities - Nail care,0.75
+Sports Arena - Class I facility,2.86
+Sports Arena - Class II facility,1.98
+Sports Arena - Class III facility,1.29
+Sports Arena - Class IV facility,0.85
+Natatorium - Class I facility,2.2
+Natatorium - Class II facility,1.47
+Natatorium - Class III facility,0.99
+Natatorium - Class IV facility,0.59
+Transportation Facility - Airport hanger,1.36
+Transportation Facility - Baggage/carousel area,0.28
+Transportation Facility - Concourse,0.49
+Transportation Facility - Passenger loading area,0.71
+Transportation Facility - Ticket counter,0.4
+"Warehouse - Storage Area - Medium-to-bulky, palletized items",0.33
+"Warehouse - Storage Area - Smaller items, picking areas",0.69
