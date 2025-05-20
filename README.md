@@ -63,11 +63,11 @@
 
 Each Revit space will be updated with:
 
-- `Design Supply Airflow` → Automatically calculated from heat gain or ACH (whichever is greater)
-- `Design Exhaust Airflow` → Set per IMC or ASHRAE 170
+- `Design Supply and Return Airflow` → Automatically calculated from heat gain or ACH (whichever is greater)
+- `Design Exhaust Airflow` → Set per IMC or ASHRAE 170 or 62.1
 - `Lighting Load` → Based on ASHRAE 90.1 LPD and space area
 - `Plug Load Density` → Based on space type
-- `People Sensible Gain` → From Fundamentals human activity profiles
+- `People Sensible and Latent Gain` → From Fundamentals human activity profiles
 - `ASHRAE_SpaceTypeID` → For traceability, e.g., `170_Operating Room`
 
 ---
