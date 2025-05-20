@@ -69,6 +69,7 @@ Each Revit space will be updated with:
 - `Plug Load Density` → Based on space type
 - `People Sensible and Latent Gain` → From Fundamentals human activity profiles
 - `ASHRAE_SpaceTypeID` → For traceability, e.g., `170_Operating Room`
+- 'Design and Calculated Cooling Load
 
 ---
 
