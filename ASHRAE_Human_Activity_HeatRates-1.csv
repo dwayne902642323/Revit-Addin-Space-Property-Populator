@@ -1,0 +1,17 @@
+SpaceFunction,PeopleTotalHeat,PeopleAdjustedTotalHeat,PeopleSensibleHeat,PeopleLatentHeat,RadiantFractionLowV,RadiantFractionHighV
+,,,,,,
+Theater,390,350,245,105,60,27
+,,,,,,
+Office Space,475,450,250,200,,
+,,,,,,
+Department store; retail store,550,450,250,200,58,38
+,,,,,,
+"Drug store, bank",550,500,250,250,,
+,,,,,,
+Restaurant,490,550,275,275,,
+,,,,,,
+Factory,800,750,275,475,,
+,,,,,,
+Dance hall,900,850,305,545,49,35
+,,,,,,
+Gymnasium,2000,1800,710,1090,,

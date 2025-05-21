@@ -1,0 +1,11 @@
+SpaceFunction,ASHRAE_W_per_ft2,DOE_W_per_ft2,PlugLoadDensity
+Office (Private),0.75,1,1
+Office (Private),0.75,1,1
+Conference Room,0.5,0.8,0.8
+Classroom,0.6,0.9,0.9
+Computer Lab,1.5,2,2
+Cafeteria,1.2,1.5,1.5
+Hospital Patient Room,0.6,0.8,0.8
+Laboratory,2,2.5,2.5
+Retail,1,1.5,1.5
+Warehouse,0.3,0.5,0.5

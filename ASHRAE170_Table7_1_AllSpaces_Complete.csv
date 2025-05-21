@@ -1,0 +1,163 @@
+SpaceFunction,PressureRelationship,MinTotalACH,MinOutdoorACH,AllAirExhausted,AirRecirculatedByUnit,DesignRelativeHumidity,DesignTemperature
+,,,,,,,
+Critical and intensive care,NR,6,2,NR,No,30-60,70-75/21-24
+,,,,,,,
+Delivery room (Cesarean),Positive,20,4,Yes,No,20-60,68-75/20-24
+,,,,,,,
+Emergency department decontamination,Negative,12,2,Yes,NR,NR,NR
+,,,,,,,
+Emergency department exam/treatment room (p),Negative,6,2,Yes (q),NR,Max 60,70-75/21-24
+,,,,,,,
+Emergency department public waiting area,NR,6,2,NR,NR,NR,70-75/21-24
+,,,,,,,
+Intermediate care (s),Negative,1.5,2,NR,No,20-60,70-75/21-24
+,,,,,,,
+Laser eye room,Positive,8,3,Yes,No,30-60,72-78/22-26
+,,,,,,,
+Medical/anesthesia gas storage (r),Negative,6,2,Yes,No,20-60,68-75/20-24
+,,,,,,,
+Newborn intensive care,Positive,20,4,NR,No,20-60,70-75/21-24
+,,,,,,,
+"Operating room (m), (o)",Positive,20,4,"Yes (q), (w)",No,Max 60,70-75/21-24
+,,,,,,,
+"Operating surgical cystoscopic rooms (m), (o)",Positive,15,3,NR,NR,NR,70-75/21-24
+,,,,,,,
+"Procedure room (o), (d)",Positive,12,2,NR,No,Max 60,70-75/21-24
+,,,,,,,
+Radiology waiting rooms,NR,6,2,NR,NR,20-60,70-75/21-24
+,,,,,,,
+Recovery room,Positive,15,3,NR,No,20-60,70-75/21-24
+,,,,,,,
+Substerile service area,NR,12,2,Yes (q),NR,NR,70-75/21-24
+,,,,,,,
+Trauma room (p),Negative,6,2,Yes (q),No,40-60,70-75/21-24
+,,,,,,,
+Treatment room (p),Negative,6,2,NR,No,NR,70-75/21-24
+,,,,,,,
+Triage,NR,6,2,NR,No,NR,70-75/21-24
+,,,,,,,
+Wound intensive care (burn unit),NR,6,2,NR,No,NR,70-75/21-24
+,,,,,,,
+Continued care nursery,NR,6,2,NR,NR,30-60,72-78/22-26
+,,,,,,,
+Labor/delivery/recovery (LDR) (s),NR,6,2,NR,No,Max 60,70-75/21-24
+,,,,,,,
+Labor/delivery/recovery/postpartum (LDRP) (s),NR,6,2,NR,NR,Max 60,70-75/21-24
+,,,,,,,
+Newborn nursery suite,NR,6,2,NR,NR,30-60,72-78/22-26
+,,,,,,,
+Nourishment area or room,NR,2,2,NR,No,Max 60,70-75/21-24
+,,,,,,,
+Patient corridor,NR,2,2,NR,NR,Max 60,70-75/21-24
+,,,,,,,
+Patient room,NR,4,2,NR,No,Max 60,70-75/21-24
+,,,,,,,
+PE anteroom (t),(e),10,2,Yes,No,NR,NR
+,,,,,,,
+Protective environment room (t),Positive,12,2,Yes,No,NR,NR
+,,,,,,,
+Bathing room,Negative,10,2,Yes,No,NR,70-75/21-24
+,,,,,,,
+Occupational therapy,Negative,6,2,NR,NR,NR,70-75/21-24
+,,,,,,,
+Physical therapy,Negative,4,2,NR,NR,NR,70-75/21-24
+,,,,,,,
+Resident sleeping/activity/dining,Negative,4,2,NR,NR,NR,70-75/21-24
+,,,,,,,
+Resident room,NR,2,2,NR,NR,NR,70-75/21-24
+,,,,,,,
+Resident unit corridor,NR,2,2,NR,NR,NR,70-75/21-24
+,,,,,,,
+Darkroom,Negative,10,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+X-ray (diagnostic and treatment),Negative,6,2,NR,NR,Max 60,70-75/21-24
+,,,,,,,
+X-ray (surgical/care and catheterization),Positive,15,3,NR,No,Max 60,70-75/21-24
+,,,,,,,
+Autopsy room,Negative,12,2,Yes,Yes,NR,68-75/20-24
+,,,,,,,
+"Bronchoscopy/sputum collection, and pentamidine administration",Negative,12,2,Yes,Yes,NR,68-73/20-23
+,,,,,,,
+Dialysis treatment area,Negative,10,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+Dialyzer processing room,NR,4,2,NR,NR,NR,70-75/21-24
+,,,,,,,
+ECT procedure room,Negative,10,2,Yes,No,NR,70-75/21-24
+,,,,,,,
+Endoscope cleaning,Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+Gastrointestinal endoscopy procedure room (x),Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+General examination room,NR,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+Hydrotherapy,Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+"Laboratory work area, bacteriology (f), (v)",Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+"Laboratory work area, biochemistry (f), (v)",Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+"Laboratory work area, cytology (f), (v)",Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+"Laboratory work area, general (f), (v)",Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+"Laboratory work area, glasswashing (f)",Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+"Laboratory work area, histology (f), (v)",Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+"Laboratory work area, microbiology (f), (v)",Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+"Laboratory work area, nuclear medicine (f)",Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+"Laboratory work area, pathology (f), (v)",Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+"Laboratory work area, serology (f)",Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+"Laboratory work area, sterilizing (f)",Negative,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+Nonrefrigerated body-holding room (d),Negative,4,2,Yes,No,Max 60,68-75/20-24
+,,,,,,,
+Nuclear medicine hot lab,Negative,6,2,Yes,No,20-60,68-73/20-23
+,,,,,,,
+Nuclear medicine treatment room,Negative,6,2,Yes,No,NR,70-75/21-24
+,,,,,,,
+Pharmacy (b),Positive,4,2,NR,NR,NR,NR
+,,,,,,,
+Physical therapy,Negative,6,2,Yes,No,Max 60,72-80/22-27
+,,,,,,,
+Special examination room (aa),Negative,6,2,Yes,No,Max 60,70-75/21-24
+,,,,,,,
+Treatment room,NR,6,2,Yes,NR,NR,70-75/21-24
+,,,,,,,
+Sterilizer equipment room,Negative,10,2,Yes,No,NR,NR
+,,,,,,,
+Clean workroom or clean holding,Positive,4,2,Yes,No,Max 60,68-73/20-23
+,,,,,,,
+Decontamination room,Negative,6,2,Yes,No,60-81/16-23,70-75/21-24
+,,,,,,,
+Sterile storage room,Positive,4,2,Yes,No,Max 60,70-75/21-24
+,,,,,,,
+Bathroom,Negative,10,2,Yes,No,NR,72-78/22-26
+,,,,,,,
+Bedpan room,Negative,10,2,Yes,No,NR,72-78/22-26
+,,,,,,,
+Clean linen storage,Positive,2,2,NR,No,NR,70-75/21-24
+,,,,,,,
+Dietary storage,Negative,2,2,NR,No,NR,70-75/21-24
+,,,,,,,
+Food preparation center (t),Negative,10,2,Yes,No,NR,72-78/22-26
+,,,,,,,
+Janitor’s closet,Negative,10,2,Yes,No,NR,72-78/22-26
+,,,,,,,
+"Laundry, general",Negative,10,2,Yes,No,NR,72-78/22-26
+,,,,,,,
+Linen and trash chute room,Negative,10,2,Yes,No,NR,72-78/22-26
+,,,,,,,
+Soiled linen sorting and storage,Negative,10,2,Yes,No,NR,72-78/22-26
+,,,,,,,
+Warewashing,Negative,10,2,Yes,No,NR,72-78/22-26
+,,,,,,,
+Clean workroom or clean holding,Positive,4,2,Yes,No,Max 60,70-75/21-24
+,,,,,,,
+Hazardous material storage,Negative,10,2,Yes,No,NR,70-75/21-24
+,,,,,,,
+Soiled workroom or soiled holding,Negative,10,2,Yes,No,NR,70-75/21-24
